@@ -67,7 +67,7 @@
     "jasmine-marbles": "^0.6.0",
     "moment": "^2.27.0",
     "ngx-markdown": "^9.1.1",
-    "rxjs": "6.5.5",
+    "rxjs": "6.6.0",
     "tslib": "^1.13.0",
     "zone.js": "^0.10.2"
   },
